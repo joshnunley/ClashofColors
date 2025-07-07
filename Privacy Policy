@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clash of Colors - Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #34495e;
+            margin-top: 30px;
+        }
+        .contact {
+            background-color: #ecf0f1;
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        .last-updated {
+            color: #7f8c8d;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for Clash of Colors</h1>
+    
+    <p class="last-updated">Last updated: July 6, 2025</p>
+    
+    <h2>Overview</h2>
+    <p>This privacy policy describes how Clash of Colors ("we", "our", or "us") handles information when you use our mobile application (the "App"). We are committed to protecting your privacy and being transparent about our data practices.</p>
+    
+    <h2>Information We Collect</h2>
+    <p><strong>We do not collect any personal information.</strong> Clash of Colors is designed to protect your privacy by operating entirely offline on your device.</p>
+    
+    <h3>Local Data Storage</h3>
+    <p>The App stores the following information locally on your device only:</p>
+    <ul>
+        <li>Game progress and achievements</li>
+        <li>Best completion times</li>
+        <li>Unlocked themes and game modes</li>
+        <li>Game settings and preferences</li>
+    </ul>
+    <p>This information never leaves your device and is not transmitted to our servers or any third parties.</p>
+    
+    <h2>Data We Do NOT Collect</h2>
+    <p>We do not collect, store, or process any of the following:</p>
+    <ul>
+        <li>Personal information (name, email, phone number, etc.)</li>
+        <li>Device identifiers</li>
+        <li>Location data</li>
+        <li>Usage analytics or statistics</li>
+        <li>Crash reports or diagnostic data</li>
+        <li>Any information that could identify you personally</li>
+    </ul>
+    
+    <h2>Third-Party Services</h2>
+    <p>Clash of Colors does not integrate with any third-party services, advertising networks, or analytics platforms. The App operates completely independently on your device.</p>
+    
+    <h2>Internet Connectivity</h2>
+    <p>The App does not require an internet connection to function and does not transmit any data over the internet during normal operation.</p>
+    
+    <h2>Children's Privacy</h2>
+    <p>Our App is safe for users of all ages, including children under 13. Since we do not collect any personal information, there are no special privacy concerns for younger users.</p>
+    
+    <h2>Data Security</h2>
+    <p>Since all game data is stored locally on your device and we do not collect or transmit any personal information, your privacy is protected by your device's own security measures.</p>
+    
+    <h2>Data Deletion</h2>
+    <p>You can delete all game data at any time by uninstalling the App from your device. This will permanently remove all locally stored game progress and settings.</p>
+    
+    <h2>Changes to This Privacy Policy</h2>
+    <p>We may update this privacy policy from time to time. Any changes will be reflected by updating the "Last updated" date at the top of this policy. Since the App does not collect personal information, policy changes are unlikely to affect your privacy.</p>
+    
+    <h2>International Users</h2>
+    <p>This privacy policy applies to all users worldwide. Since we do not collect or process personal data, international data protection regulations (such as GDPR) do not apply to our data practices.</p>
+    
+    <div class="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions about this privacy policy or our privacy practices, please contact us at:</p>
+        <p><strong>Email:</strong> [Your Email Address]</p>
+        <p><strong>App:</strong> Clash of Colors</p>
+    </div>
+    
+    <hr>
+    <p><em>This privacy policy is effective as of the date listed above and applies to all users of the Clash of Colors mobile application.</em></p>
+</body>
+</html>
